@@ -25,12 +25,12 @@
 }
 
 .name {
-    text-align: center;
-    font-size: 1.4rem;
-    font-weight: 600;
-    text-transform: capitalize;
-    letter-spacing: 2px;
-    color: var(--text);
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  color: var(--text);
 }
 
 .weight {
