@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bulbasaur Card</title>
+
+    <style>
+  :root {
+    --bg: #f4f6f8;
+    --card-bg: #ffffff;
+    --text: #111827;
+    --muted: #6b7280;
+    --accent: #22c55e;
+    --border: #fefefe;
+  }
+
+
+  body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg);
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  .card {
+    width: 320px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    transition: 0.3s ease;
+  }
+
+  .card img {
+    width: 120px;
+    display: block;
+    margin: 0 auto 16px;
+  }
+
+  .name {
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: var(--text);
+  }
+
+  .weight {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-bottom: 16px;
+  }
+
+  .section {
+    margin-bottom: 14px;
+  }
+
+  .section-title {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .tag {
+    padding: 4px 8px;
+    font-size: 0.75rem;
+    border-radius: 999px;
+    background: var(--accent);
+    color: #fff;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    font-size: 0.85rem;
+  }
+
+  .stat {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dashed var(--border);
+    padding-bottom: 4px;
+  }
+</style>
+  </head>
+
+  <body>
+
+   
+
+  </body>
+</html>

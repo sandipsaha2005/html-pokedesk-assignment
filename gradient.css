@@ -1,0 +1,184 @@
+.grass-poison-white {
+  background: linear-gradient(180deg, mediumseagreen, mediumpurple , #ffffff );
+}
+
+.fire-flying-white {
+  background: linear-gradient(180deg, goldenrod, steelblue , #ffffff );
+}
+
+.grass-dark-white {
+  background: linear-gradient(180deg, mediumseagreen, slategray , #ffffff );
+}
+
+.grass-fighting-white {
+  background: linear-gradient(180deg, mediumseagreen, crimson , #ffffff );
+}
+
+.rock-grass-white {
+  background: linear-gradient(180deg, dimgray, mediumseagreen , #ffffff );
+}
+
+.grass-flying-white {
+  background: linear-gradient(180deg, mediumseagreen, steelblue , #ffffff );
+}
+
+.grass-ground-white {
+  background: linear-gradient(180deg, mediumseagreen, peru , #ffffff );
+}
+
+.bug-grass-white {
+  background: linear-gradient(180deg, brown, mediumseagreen , #ffffff );
+}
+
+.grass-ice-white {
+  background: linear-gradient(180deg, mediumseagreen, darkcyan , #ffffff );
+}
+
+.grass-fairy-white {
+  background: linear-gradient(180deg, mediumseagreen, hotpink , #ffffff );
+}
+
+.water-grass-white {
+  background: linear-gradient(180deg, dodgerblue, mediumseagreen , #ffffff );
+}
+
+.grass-psychic-white {
+  background: linear-gradient(180deg, mediumseagreen, orange , #ffffff );
+}
+
+.psychic-grass-white {
+  background: linear-gradient(180deg, orange, mediumseagreen , #ffffff );
+}
+
+.normal-grass-white {
+  background: linear-gradient(180deg, gray, mediumseagreen , #ffffff );
+}
+
+.grass-steel-white {
+  background: linear-gradient(180deg, mediumseagreen, steelblue , #ffffff );
+}
+
+.ghost-grass-white {
+  background: linear-gradient(180deg, black, mediumseagreen , #ffffff );
+}
+
+.grass-ghost-white {
+  background: linear-gradient(180deg,  mediumseagreen ,black, #ffffff );
+}
+
+.grass-dragon-white {
+  background: linear-gradient(180deg,  mediumseagreen ,mediumaquamarine, #ffffff );  
+}
+
+.grass-normal-white {
+  background: linear-gradient(180deg,  mediumseagreen ,gray, #ffffff );  
+}
+
+.ground-grass-white {
+  background: linear-gradient(180deg,peru,  mediumseagreen , #ffffff );  
+}
+
+.grass-fire-white {
+  background: linear-gradient(180deg,  mediumseagreen ,goldenrod, #ffffff );  
+}
+
+.dark-grass-white {
+  background: linear-gradient(180deg, slategray, mediumseagreen , #ffffff );  
+}
+
+.electric-grass-white {
+  background: linear-gradient(180deg, hsl(51deg 73% 50%), mediumseagreen , #ffffff );  
+}
+
+.grass-water-white {
+  background: linear-gradient(180deg,  mediumseagreen ,dodgerblue, #ffffff );  
+}
+
+.grass-white {
+  background: linear-gradient(180deg,  mediumseagreen , #ffffff );  
+}
+
+.bug-poison-white {
+  background: linear-gradient(180deg,  brown ,mediumpurple, #ffffff );  
+}
+
+.poison-white {
+  background: linear-gradient(180deg,  mediumpurple , #ffffff );  
+}
+
+.poison-ground-white {
+  background: linear-gradient(180deg, mediumpurple,peru, #ffffff );  
+}
+
+.poison-flying-white {
+  background: linear-gradient(180deg, mediumpurple,steelblue, #ffffff );  
+}
+
+.water-poison-white {
+  background: linear-gradient(180deg, dodgerblue,mediumpurple, #ffffff );  
+}
+
+.ghost-poison-white {
+  background: linear-gradient(180deg, black,mediumpurple, #ffffff );  
+}
+
+.poison-dark-white {
+  background: linear-gradient(180deg, mediumpurple,black, #ffffff );  
+}
+
+.poison-bug-white {
+  background: linear-gradient(180deg, mediumpurple,brown, #ffffff );  
+}
+
+.poison-fighting-white {
+  background: linear-gradient(180deg, mediumpurple,crimson, #ffffff );  
+}
+
+.poison-water-white {
+  background: linear-gradient(180deg, mediumpurple,dodgerblue, #ffffff );  
+}
+
+.poison-dragon-white {
+  background: linear-gradient(180deg, mediumpurple,mediumaquamarine, #ffffff );  
+}
+
+.poison-fire-white {
+  background: linear-gradient(180deg, mediumpurple,goldenrod, #ffffff );  
+}
+
+.electric-poison-white {
+  background: linear-gradient(180deg, hsl(51deg 73% 50%),mediumpurple, #ffffff );  
+}
+
+.poison-normal-white {
+  background: linear-gradient(180deg,mediumpurple,gray, #ffffff );  
+}
+
+.steel-poison-white {
+  background: linear-gradient(180deg,steelblue,mediumpurple, #ffffff );  
+}
+
+.rock-poison-white {
+  background: linear-gradient(180deg,dimgray,mediumpurple, #ffffff );  
+}
+
+.poison-psychic-white {
+  background: linear-gradient(180deg,mediumpurple,orange, #ffffff );  
+}
+
+.poison-fairy-white {
+  background: linear-gradient(180deg,mediumpurple,hotpink, #ffffff );  
+}
+
+.poison-ghost-white {
+  background: linear-gradient(180deg,mediumpurple,slategray, #ffffff );  
+}
+
+.fire-poison-white {
+  background: linear-gradient(180deg,goldenrod,mediumpurple, #ffffff );  
+}
+
+.fire-white {
+  background: linear-gradient(180deg,goldenrod, #ffffff );  
+
+}
