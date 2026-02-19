@@ -27,6 +27,7 @@
   position: sticky;
   overflow: scroll;
   background-color: var(--lightblue);
+  transition: .3s ease-in;
 }
 
 .container {
